@@ -11,7 +11,7 @@
 </head>
 <body>
 <?php
-	$db = new mysqli('localhost', 'todo', 'Rev82_y1', 'todo');
+	$db = new mysqli('localhost', 'USERNAME', 'PASSWORD', 'TABLE');
 	
 ?>
 <h1 align="center" style="margin:20px auto">Todo</h1>
